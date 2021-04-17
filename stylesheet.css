@@ -1,0 +1,382 @@
+# cheers-LP
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+/*home*/
+  body{
+    width:100%;
+    margin: 0 auto;
+  }
+
+  section img{
+    width:100%;
+  }
+
+  .introduce{
+    margin-bottom: 50px;
+  }
+
+  .introduce_img2{
+    padding-left: 30px;
+  }
+
+  .introduce_img3{
+    padding-left: 30px;
+  }
+
+  section{
+    background-color: #d4dfbb;
+    padding-bottom: 200px;
+  }
+
+  section h1{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-size: 20px;
+    padding-top:50px;
+    padding-bottom: 50px;
+  }
+
+  .introduce_contents h2{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .introduce_contents h2 span{
+    font-family: 'EB Garamond', serif;
+    font-size: 1.5rem;
+  }
+
+  .introduce_contents p{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .button_contents {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .button_contents a{
+    font-family: 'EB Garamond', serif;
+    background-color: #f3eed5;
+    padding:5px;
+    border-radius: 5px;
+    color:black;
+  }
+
+  .button_contents a:hover{
+    background-color: rgba(192, 192, 192, 0.5);
+  }
+
+
+  a{
+    text-decoration: none;
+  }
+
+  @media(min-width:768px){
+    .introduce{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap:20px;
+
+
+    }
+
+    .introduce_contents{
+      max-width: 800px;
+      margin-top: 20px;
+    }
+
+    .introduce_img1{
+      max-width: 300px;
+    }
+
+    .introduce_img2{
+      max-width: 350px;
+
+    }
+
+    .introduce_img3{
+      max-width: 350px;
+    }
+
+    .introduce_img4{
+      max-width: 350px;
+    }
+
+    .introduce2{
+      display: flex;
+      justify-content: center;
+      flex-direction: row-reverse;
+      align-items: center;
+      gap:20px;
+
+
+    }
+
+
+
+
+  }
+
+  @media(min-width:1200px){
+    section h1{
+      font-size: 2rem;
+    }
+
+    .introduce{
+      gap:40px;
+
+
+    }
+
+    .introduce_contents{
+      max-width: 800px;
+      margin-top: 20px;
+    }
+
+    .introduce_img1{
+      max-width: 600px;
+    }
+
+    .introduce_img2{
+      max-width: 600px;
+
+    }
+
+    .introduce_img3{
+      max-width: 600px;
+    }
+
+    .introduce_img4{
+      max-width: 600px;
+    }
+
+    .introduce2{
+      gap:40px;
+    }
+
+    .introduce_contents h2{
+      font-size: 1.5rem;
+    }
+
+    .introduce_contents h2 span{
+      font-size: 2rem;
+    }
+
+    .introduce_contents p{
+      font-size: 1.2rem;
+    }
+
+    .button_contents a{
+      font-size: 1.5rem;
+      padding:10px;
+    }
+  }
